@@ -1,4 +1,4 @@
-# Delilha Restó
+# Delilha Restó :zap:
 https://github.com/Mieczys/delilahResto
 
 
