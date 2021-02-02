@@ -59,7 +59,7 @@ The Delilah Restó system runs with a MySQL database, so the MySQL Database engi
 
 ## Usage
 
-In order to know about the use of this API please refer to the .yaml file to see the swagger OpenAPI API file description.
+In order to know about the use of this API please refer to the .yaml file to see the swagger OpenAPI file description.
 
 ## Testing
 
