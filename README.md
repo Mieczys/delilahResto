@@ -36,25 +36,25 @@ The Delilah Restó system runs with a MySQL database, so the MySQL Database engi
 3. Ensure the path in the command matched the absolute path of the routes folder in your pc.
 
 ```bash
-\delilah_resto\
+\delilahResto-main\
 ```
 
 4. Run the following command “npm install”, and wait for it to finish
 
 ```bash
-\delilah_resto\> npm install
+\delilahResto-main\> npm install
 ```
 
 5. Run the following command “CD routes”
 
 ```bash
-\delilah_resto\> CD routes
+\delilahResto-main\> CD routes
 ```
 
 6. Run the following command “node index.js”
 
 ```bash
-\delilah_resto\routes> node index.js
+\delilahResto-main\routes> node index.js
 ```
 
 ## Usage
