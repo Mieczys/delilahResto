@@ -64,3 +64,18 @@ In order to know about the use of this API please refer to the .yaml file to see
 ## Testing
 
 Use Postman to test all the endpoints available in the API. All requests have been tested previously so there is a request Postman collection available inside the project folder inside the “attachments” folder, “Delilah Restó.postman_collection.json”.
+
+
+## User
+
+1 - Be able to register a new user.
+
+2 - A user must be able to list all available products.
+
+3 - A user must be able to generate a new order to the Restaurant with a list of dishes they want.
+
+4 - The user with administrator roles must be able to update the order status.
+
+5 - A user with an administrator role must be able to perform the actions of creating, editing and deleting product resources (CRUD of products).
+
+6 - A user without administrator roles should not be able to create, edit or delete a product, or edit or delete an order. Nor should you be able to access information from other users.
