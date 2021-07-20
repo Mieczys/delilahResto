@@ -54,7 +54,7 @@ The Delilah Restó system runs with a MySQL database, so the MySQL Database engi
 6. Run the following command “node index.js”
 
 ```bash
-\delilahResto-main\routes> node index.js
+\delilahResto-main\routes\> node index.js
 ```
 
 ## Usage
