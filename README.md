@@ -2,7 +2,7 @@
 https://github.com/Mieczys/delilahResto
 
 
-Delilah Restó is a restaurant web application. This project contains the backend component of the system, which in general is an product catalog and order manager.
+Delilah Restó is a restaurant web application. This project contains the backend component of the system, which in general is a product catalog and order manager.
 
 ## Installation
 
